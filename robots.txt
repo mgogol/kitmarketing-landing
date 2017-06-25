@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://kitmarketing.com.ua/sitemap.xml
+Host: http://kitmarketing.com.ua
