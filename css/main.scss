@@ -14,6 +14,17 @@
     font-weight: 300;
 }
 
+
+body {
+	background-color: #F6F6F6 !important;
+}
+.t396__artboard {
+	background-color: #F6F6F6 !important;
+}
+#nav22285338 {
+	background-color: #F6F6F6 !important;
+}
+
 a {
 	text-decoration: none;
 }
@@ -37,6 +48,7 @@ a {
 #callback_form {
 	font-family: 'Circe';
 	transition: 0.2s ease-in-out;
+	background-image: linear-gradient( 135deg, #F6F6F6 50%, #EDEDED 120%);
 
 	img {
 		max-width: 40%;
@@ -55,6 +67,7 @@ a {
 	form {
 		input {
 			font-family: 'Circe';
+			// border: 1px solid #B0C0D7;
 			font-size: 18px;
 			font-weight: 400;
 			width: 80%;

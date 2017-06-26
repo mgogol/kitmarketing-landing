@@ -10,6 +10,15 @@
   font-family: "Circe";
   src: "../../fonts/CRC35.otf";
   font-weight: 300; }
+body {
+  background-color: #F6F6F6 !important; }
+
+.t396__artboard {
+  background-color: #F6F6F6 !important; }
+
+#nav22285338 {
+  background-color: #F6F6F6 !important; }
+
 a {
   text-decoration: none; }
 
@@ -26,7 +35,8 @@ a {
 
 #callback_form {
   font-family: 'Circe';
-  transition: 0.2s ease-in-out; }
+  transition: 0.2s ease-in-out;
+  background-image: linear-gradient(135deg, #F6F6F6 50%, #EDEDED 120%); }
   #callback_form img {
     max-width: 40%;
     margin-bottom: 20px; }
